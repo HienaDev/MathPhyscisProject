@@ -41,10 +41,10 @@
 
 ### Metodology
 
-    This game uses the trajectory physics equations for the movement of the projectile.
-    Uses the drag equation for the wind, which changes the acceleration of the projectile.
-    Uses bouncing by changing the speed of the projectile when it hits bouncy platforms.
-    Checks for collisions by checking its area.
+  This game uses the trajectory physics equations for the movement of the projectile.
+  Uses the drag equation for the wind, which changes the acceleration of the projectile.
+  Uses bouncing by changing the speed of the projectile when it hits bouncy platforms.
+  Checks for collisions by checking its area.
 
 
 
